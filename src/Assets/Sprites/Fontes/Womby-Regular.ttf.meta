@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f8fc4cc88eb0e55428dc26d4f5102c84
+timeCreated: 1517115922
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Womby
+  fontNames:
+  - Womby
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 08e2b7b0eb161f74c980e3bcc0fce3f0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
